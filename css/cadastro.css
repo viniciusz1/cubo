@@ -1,0 +1,33 @@
+.cadastro{
+    box-shadow: inset 0 0 0 1px black;
+    height: 115px;
+    width: 300px;
+    position: relative;
+    left: 35vw;
+}
+.email{
+    padding: 15px 0px;
+    
+    padding-left: 20px;
+}
+.senha{
+    padding-left: 20px;
+}
+.titulo{
+    width: 100%;
+}
+.containerLogin{
+    display: block;
+    padding: 0 80px;
+}
+.botao{
+    display: flex;
+    justify-content: end;
+    margin-top: 10px;
+}
+
+.button{
+    border: none;
+    box-shadow: inset 0 0 0 1px black;
+    padding: 5px;
+}

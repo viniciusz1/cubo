@@ -1,0 +1,94 @@
+*{
+    font-family: 'Rubik';
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-size: 16px;
+    
+}
+header iframe{
+    width: 100%;
+}
+
+#corpo{
+   
+    margin: 0 40px;
+}
+.subtitulo{
+    margin: 13px 0;
+}
+.titulo{
+    font-size: 45px;
+}
+.cubo{
+    box-shadow: inset 0 0 0 1px #d9d9d9;
+    width: 288px;
+    padding: 30px;
+    margin: 0 15px;
+    
+}
+.cubos{
+    display: flex;
+    padding-bottom: 80px;
+    justify-content: center;
+}
+.imgcubo{
+    height: 247px;
+    margin-left: -10px;
+}
+.infoProduto{
+    text-align: center;
+}
+h3{
+    margin: 40px 0;
+}
+.titulo{
+    margin: 40px 0;
+}
+footer{
+    display: flex;
+   padding-left: 100px;
+    background-color: rgb(112, 108, 108);
+    margin-top: 80px;
+    height: 312px;
+
+}
+.textofooter{
+    width: 309px;
+    margin-top: 23px;
+}
+.imagensFooter{
+    display: flex;
+    position: relative;
+    bottom: -100px;
+    right: -253px;
+}
+.imgfooter{
+    margin-right: 26px;
+    
+}
+.informacoesFooter{
+    position: relative;
+    bottom: -98px;
+    right: -90px;
+}
+.cubinho{
+    height: 58px;
+}
+.btn-secondary{
+    color: transparent;
+    height: 100px;
+    width: 95px;
+    background: border-box;
+    outline: none;
+    border: transparent;
+}
+.espaco{
+    padding: 10px 0;
+}
+a{
+    color: transparent;
+}
+a:hover{
+    color: transparent;
+}
