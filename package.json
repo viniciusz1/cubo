@@ -1,5 +1,5 @@
 {
-  "name": "858",
+  "name": "cubosite",
   "version": "1.0.0",
   "description": "sitepote",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/viniciusz1/cubo.git"
   },
-  "author": "",
+  "author": "vinicius",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/viniciusz1/cubo/issues"
