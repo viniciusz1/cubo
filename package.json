@@ -1,0 +1,24 @@
+{
+  "name": "858",
+  "version": "1.0.0",
+  "description": "sitepote",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusz1/cubo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciusz1/cubo/issues"
+  },
+  "homepage": "https://github.com/viniciusz1/cubo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
